@@ -4,7 +4,7 @@ exports.ALL = [
 		image: 'http://assets.viewers-guide.hbo.com/larges1-ep1-people-profilepic-baratheon-cersei-800x800.jpg	', 
 		mention: '"When you play the game of thrones, you win or you die. There is no middle ground."', 
 		emoji: '🔥', 
-		github: 'https://github.com/djirdehh',
+		github: '',
 		personal_website: 'http://awoiaf.westeros.org/index.php/Cersei_Lannister',
 		cohort_message: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
 		cohort_image: 'http://hdwallpaperdaily.com/wp-content/uploads/2013/07/beautiful-cersei-lannister-wallpaper.jpg' 

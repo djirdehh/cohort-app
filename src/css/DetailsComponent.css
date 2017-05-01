@@ -1,0 +1,51 @@
+.aligner {
+  height: 100%;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  -webkit-justify-content: center; }
+  .aligner .return-button-section {
+    position: absolute;
+    top: 10px;
+    left: 5px; }
+    .aligner .return-button-section .return-button {
+      height: 38px;
+      padding: 0 15px;
+      text-align: center;
+      font-size: 11px;
+      font-weight: 600;
+      line-height: 38px;
+      letter-spacing: .1rem;
+      text-transform: uppercase;
+      text-decoration: none;
+      white-space: nowrap;
+      border-radius: 4px;
+      border: 1px solid #bbb;
+      cursor: pointer;
+      box-sizing: border-box;
+      display: inline-block;
+      margin: 0px auto;
+      color: #FFF;
+      background-color: #5380f7;
+      border-color: #FFF;
+      margin: 0 10px;
+      -o-transition: .5s;
+      -ms-transition: .5s;
+      -moz-transition: .5s;
+      -webkit-transition: .5s;
+      transition: .5s; }
+      .aligner .return-button-section .return-button:hover {
+        background-color: #FFF;
+        color: #5380f7; }
+  .aligner .app-description {
+    font-family: Nunito, sans-serif;
+    font-size: 20.5px;
+    color: #FFF;
+    line-height: 1.65;
+    text-align: center;
+    padding: 35px; }

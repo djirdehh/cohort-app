@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import '../App.css';
 import '../css/PostComponent.css';
-import user_hassan from '../images/hassan.png';
 	
 class PostComponent extends Component {
 	render() {
@@ -17,11 +16,11 @@ class PostComponent extends Component {
 								<div className="user-posting-section">
 									<div className="user">
 										<div className="user-details">
-											<p className="user-link">
+											<div className="user-link">
 			 									<div className="profile-picture" style={{backgroundImage: `url(${this.props.selectedIntern.image})`}}></div>
 			 									{this.props.selectedIntern.name}
 			 									<span className="date">Jan - May 2017 <i style={{fontWeight: 700}} className="fa fa-globe"></i></span>
-		 									</p>
+		 									</div>
 		 								</div>
 		 								<span className="user-menu"><i className="fa fa-ellipsis-h"></i></span>
 									</div>

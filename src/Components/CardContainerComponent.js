@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import CardComponent from './CardComponent';
 import '../App.css';
 import '../css/CardContainerComponent.css';
-import user_hassan from '../images/hassan.png';
 
 const FRONT_END_INTERNS = require('../data/front-end-interns').ALL;
 const BACK_END_INTERNS = require('../data/back-end-interns').ALL;

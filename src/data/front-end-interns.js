@@ -13,7 +13,7 @@ exports.ALL = [
 		emoji: '🔥', 
 		github: 'https://github.com/djirdehh',
 		personal_website: 'http://www.hassandjirdeh.com/',
-		cohort_message: `Thanks for checking this out! I built this with React/SCSS since I wanted to get this deployed as fast as possible. This probably wouldn't be the final design of the app if I actually continued this but I would employ a lot of the features I created here. Why Game of Throne characters? I thought they would be pretty cool placeholders 😄.`,
+		cohort_message: `Thanks for checking this out! I built this with React/Bootstrap/SCSS since I wanted to get this deployed as fast as possible. This probably wouldn't be the final design of the app if I actually continued this but I would employ a lot of the features I created here. Why Game of Throne characters? I thought they would be pretty cool placeholders 😄.`,
 		cohort_image: hassanCohort 
 	},
 	{	

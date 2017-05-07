@@ -27,7 +27,7 @@ class PostComponent extends Component {
 									<div className="posting">
 										{this.props.selectedIntern.cohort_message}
 									</div>
-									<div><img className="user-img" src={this.props.selectedIntern.cohort_image} alt=""/></div>
+									<div style={{ background: 'rgba(0, 0, 0, 0.7)'}}><img className="user-img" src={this.props.selectedIntern.cohort_image} alt=""/></div>
 								</div>
 							</div>
 						</div>
